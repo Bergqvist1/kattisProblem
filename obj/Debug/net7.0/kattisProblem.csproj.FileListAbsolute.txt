@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Unity\kattisProblem\bin\Debug\net7.0\kattisProblem.exe
+C:\Users\Admin\Documents\Unity\kattisProblem\bin\Debug\net7.0\kattisProblem.deps.json
+C:\Users\Admin\Documents\Unity\kattisProblem\bin\Debug\net7.0\kattisProblem.runtimeconfig.json
+C:\Users\Admin\Documents\Unity\kattisProblem\bin\Debug\net7.0\kattisProblem.dll
+C:\Users\Admin\Documents\Unity\kattisProblem\bin\Debug\net7.0\kattisProblem.pdb
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.AssemblyInfo.cs
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.dll
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\refint\kattisProblem.dll
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.pdb
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\kattisProblem.genruntimeconfig.cache
+C:\Users\Admin\Documents\Unity\kattisProblem\obj\Debug\net7.0\ref\kattisProblem.dll
